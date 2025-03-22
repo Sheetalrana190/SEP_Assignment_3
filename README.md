@@ -61,5 +61,8 @@ Note : Please view the Kanban bord here https://github.com/users/Sheetalrana190/
 
 It contain Epic that shows the priority from top to bottom with # number
 
+Please wiew the issue here https://github.com/Sheetalrana190/SEP_Assignment_3/issues
+
+
 ---
 # Thank You
