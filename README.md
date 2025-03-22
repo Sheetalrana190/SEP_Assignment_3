@@ -41,9 +41,11 @@ Developers want to know that the training data they are using is "balanced" (doe
 7.	Implement audit logging to track changes in training data.
 8.	Integrate with existing AI model training workflows.
 
+#### System design
 
-## Step 4. Develop user interface dialogs : Interaction flow between user and system
+
 This how the system will look like for client 
+
 -	Design an interface where answers are not visible by default and require user interaction to view.
 -	Only authorized users (e.g., reviewers) can access answers.
 -	Ensure the AI learns from questions without seeing answers initially, followed by a separate validation phase.
@@ -53,3 +55,11 @@ This how the system will look like for client
 -	Integrates seamlessly with existing AI training pipelines using API endpoints.
 -	Implements an intuitive UI/UX that requires minimal onboarding for developers.
 
+---
+
+Note : Please view the Kanban bord here https://github.com/users/Sheetalrana190/projects/3
+
+It contain Epic that shows the priority from top to bottom with # number
+
+---
+# Thank You
