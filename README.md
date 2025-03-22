@@ -16,6 +16,13 @@ Developers want to have categorized training questions that are separate from th
 ### Balanced Training Data
 Developers want to know that the training data they are using is "balanced" (does not contain biases) because this will give them better AI models.
 
+### Assumptions :
+-	The client currently lacks an automated system for categorizing training questions.
+-	Developers have different preferences for category customization, requiring manual and automated options.
+-	Bias detection should be transparent and adjustable for developers.
+-	The system will integrate with existing AI model training environments.
+
+
 ---
 
 ## System Requirements :
